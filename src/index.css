@@ -34,3 +34,10 @@ nav {
   display: flex;
   align-items: center;
 }
+.card {
+  padding: 10px;
+}
+.card img {
+  max-width: 280px;
+  max-height: 350px;
+}
